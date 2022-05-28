@@ -1,8 +1,12 @@
 {
   "license": "4955-1723-6951-4392-6903",
   "user": "bitacorasggr",
-  "date": "2025-01-01",
+  "verifyMac": false,
   "mac": "EC-F4-BB-63-93-74",
   "telephone": "4921752107",
-  "email": "royenastd@gmail.com"
+  "email": "royenastd@gmail.com",
+  "verifyIp": false,
+  "isIpLocal": false,
+  "ipAddress": "143.198.131.102",
+  "date": "2025-01-01"
 }
